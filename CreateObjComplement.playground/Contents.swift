@@ -32,5 +32,8 @@ btn.setTitle("按钮", for: .normal)
 //在swift中调用方法，统一使用"点语法"
 view.addSubview(btn)
 
+//6、类型推导：“option+单击”可查看标识符类型
+let a = 20
+
 
 
